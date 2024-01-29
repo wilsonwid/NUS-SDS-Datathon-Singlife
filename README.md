@@ -1,5 +1,9 @@
 # NUS-SDS-Datathon-Singlife
 
+## Running Instructions
+
+Please run the entire notebook before running the testing function.
+
 ## Column Header Descriptions
 
 ### General Client Information
