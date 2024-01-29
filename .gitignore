@@ -162,8 +162,15 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
-# Ignore everything in the data folder
+# Ignore everything in the data folder and related data files
 data/*
+*.zip
+*.parquet
+*.csv
+*.pdf
+*.gpg
 
 # But not the _.keep file
 !data/_.keep
+
+*.pkl

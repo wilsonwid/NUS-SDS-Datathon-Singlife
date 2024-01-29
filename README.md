@@ -1,14 +1,5 @@
 # NUS-SDS-Datathon-Singlife
 
-## Dataset Handling Guidelines
-- The dataset is provided by Singlife. The dataset is strictly for the purpose of this competition and should not be used for any other purposes.
-- The dataset must not be shared with anyone outside of the competition, or uploaded to any repositories / cloud storage.
-
-## GitHub Repository Instructions
-- The forked repository is public by default and it can't be made private. If you wish to collaborate on the project through GitHub, you can create a private repository and add your teammates as collaborators. 
-- [Here](https://docs.github.com/en/repositories/creating-and-managing-repositories/duplicating-a-repository) is a set of instructions to create a private mirror of the repository.
-- Make sure to make your repository public for your final submission.
-
 ## Column Header Descriptions
 
 ### General Client Information
@@ -83,3 +74,10 @@ Note: Each team should only submit one notebook and the notebook should be in th
 If the model is not saved, we will assume that the model is trained using the training function and the output of the training model is a model that can be is trained using the template function, `testing_hidden_data`, provided in the notebook. Please name the training function as `train_model`.
 
 3. If your model is too large to be uploaded to GitHub, you can upload it to Google Drive and share the link with us. Please ensure that the link is accessible by anyone with the link. Please provide a `LOAD_MODEL_INSTRUCTIONS.md` file in the GitHub repository to explain how to load the model. Note that you are strongly discouraged to use such large models. 
+
+## Team members
+In alphabetical order:
+- Au Jun Hui
+- Wang Jiayi
+- Wilson Widyadhana
+- Wong Zhi Yuan
